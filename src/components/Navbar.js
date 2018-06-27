@@ -2,19 +2,20 @@ import React from 'react'
 import Link from 'gatsby-link'
 
 import github from '../img/github-icon.svg'
-import logo from '../img/logo.svg'
+import logo from '../img/fishLogo.png'
 
 const Navbar = () => (
   <nav className="navbar is-transparent">
     <div className="container" style={{ backgroundColor: '#0078cf' }}>
-      <div className="navbar-brand">
+      <div className="navbar-brand" style={{ padding: '0px 20px' }}>
         <Link to="/" className="navbar-item">
-          <figure className="image">
-            <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
-          </figure>
+            <img src={logo} alt="Fish"/>
         </Link>
       </div>
       <div className="navbar-start">
+        <Link to="/" className="navbar-item" style={{   color: '#ffffff', fontSize: '20px', fontWeight: 'bold' }}>
+          Cedric Hrng
+        </Link>
         <Link className="navbar-item" to="/about" style={{ color: '#ffffff' }}>
           About Me
         </Link>

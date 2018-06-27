@@ -3,9 +3,24 @@ import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 import styled from 'styled-components'
 
+import travel from '../img/Travel.png'
+
 const Wrapper = styled("div")({
   display: "flex",
   flexDirection: "row",
+});
+
+const Posts = styled("div")({
+  backgroundColor: '#f1f1f1',
+  border: '2px solid #0078cf', 
+  padding: '1em 2em',
+  marginBottom: '1.5em',
+  position: 'relative',
+});
+
+const PostTitles = styled("div")({
+  fontSize: '20px',
+  fontWeight: 'bold',
 });
 
 export default class IndexPage extends React.Component {
@@ -18,29 +33,25 @@ export default class IndexPage extends React.Component {
         <Wrapper className="container">
           {posts
             .map(({ node: post }) => (
-              <div
-                className="content"
-                style={{ border: '1px solid #0078cf', padding: '2em 4em', 
-                width: '100vh', height: '100vh',
-              }}
-                key={post.id}
-              >
-                <p>
-                  <Link className="has-text-primary" to={post.fields.slug}>
-                    {post.frontmatter.title}
-                  </Link>
-                  <span> &bull; </span>
-                  <small>{post.frontmatter.date}</small>
-                </p>
-                <p>
-                  {post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="button is-small" to={post.fields.slug}>
+              <Link to={post.fields.slug} key={post.id}>
+                <Posts className="content" >
+                  <p>
+                    <PostTitles className="has-text-primary" to={post.fields.slug}>
+                     {post.frontmatter.title}
+                    </PostTitles>
+                  </p>
+                  <p>
+                   <div>
+                    {post.excerpt}
+                   </div>
+                     <br />
+                     <br />
+                   <div className="button is-small" to={post.fields.slug}>
                     Start Reading →
-                  </Link>
-                </p>
-              </div>
+                   </div>
+                 </p>
+                </Posts>
+              </Link>
             ))}
         </Wrapper>
       </section>
