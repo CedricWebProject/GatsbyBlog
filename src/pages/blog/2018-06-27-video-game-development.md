@@ -2,9 +2,10 @@
 templateKey: blog-post
 title: Video Game Development
 date: '2018-06-27T23:51:00+02:00'
-description: « »
+description: »Games are a series of interesting decisions« - Cid Meier
 tags:
   - Games
+  - Entertainment
   - Software-Development
 ---
 ## `Why creating Games?`
@@ -15,13 +16,15 @@ In 2018 I visited a workshops called “Video Game Development” at the [Open C
 
 ## `What is a GameJam?`
 
-Already explained.
+A Game Jam is an event where the goal is to invent a playable game in a given time period. If you're not that familiar with programming or working with game engine you can still join as a group and present the written game concept. Every Game Jam has a theme which the game should somehow be related to.
 
 ## `Waterkant Festival 2018: Mia Soul`
 
 This is the result of my first Game Jam I participated in June 2018 at the [Waterkant Festival](https://waterkant.sh/) in Kiel. The Game Jam took 48 hours and on the last day of the festival all games were presented. The topic of the Jam was “The Secret Code”. 
 
 We were five people in total, containing one programmer, one unity developer, two 3D artists and me. I was responsible for the sound design and the production of the game theme. Besides the main menue and credits I invented the first concept for the level design.
+
+_(Bild vom Jam)_
 
 At the beginning we gather ideas about what the game should be about. We had a few rounds where everyone presented an idea after a given time. We ended up combining two game mechanics: The narrative and the exploration.
 
