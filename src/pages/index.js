@@ -2,6 +2,11 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 
+const Wrapper = styled("div")({
+  display: "flex",
+  flexDirection: "row",
+});
+
 export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props
@@ -9,7 +14,7 @@ export default class IndexPage extends React.Component {
 
     return (
       <section className="section">
-        <div className="container">
+        <Wrapper className="container">
           <div className="content">
             <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
           </div>
@@ -37,7 +42,7 @@ export default class IndexPage extends React.Component {
                 </p>
               </div>
             ))}
-        </div>
+        </Wrapper>
       </section>
     )
   }
