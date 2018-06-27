@@ -42,7 +42,7 @@ export default class IndexPage extends React.Component {
                   </p>
                   <p>
                    <div>
-                    {post.excerpt}
+                    <img src={travel} alt="TravelImage"/>
                    </div>
                      <br />
                      <br />
