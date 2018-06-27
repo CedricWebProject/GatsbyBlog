@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Music Production
 date: '2018-06-27T23:14:40+02:00'
-description: '»When words fails, music speaks« - Hans Christian Andersen'
+description: '»When words fails, music speaks.« - Hans Christian Andersen'
 tags:
   - Music
   - Guitar
