@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
+import styled from 'styled-components'
 
 const Wrapper = styled("div")({
   display: "flex",
@@ -15,9 +16,6 @@ export default class IndexPage extends React.Component {
     return (
       <section className="section">
         <Wrapper className="container">
-          <div className="content">
-            <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
-          </div>
           {posts
             .map(({ node: post }) => (
               <div
@@ -37,7 +35,7 @@ export default class IndexPage extends React.Component {
                   <br />
                   <br />
                   <Link className="button is-small" to={post.fields.slug}>
-                    Keep Reading →
+                    Start Reading →
                   </Link>
                 </p>
               </div>
