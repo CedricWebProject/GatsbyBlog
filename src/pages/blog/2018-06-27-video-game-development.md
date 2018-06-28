@@ -8,17 +8,17 @@ tags:
   - Entertainment
   - Software-Development
 ---
-## `Why creating Games?`
+## **Why creating Games?**
 
 In 2015 I became interested into developing games. I’ve always been interested into playing games of any genre but in this time I learned some programming skills, modelling 3D-Objects in [Blender](https://www.blender.org/) and putting it all together in [Unity](https://unity.com/madewith). Therefore I visited several workshops and working myself through to game development books over two years. 
 
 In 2018 I visited a workshops called “Video Game Development” at the [Open Campus](https://edu.opencampus.sh/) in Kiel. There I met a lot of people with the same ambitions like me and after a couple lessons I found a group which wanted to invent a game over a longer period of time. I joined them and we created our first little game together at a Game Jam of the Waterkant Festival in Kiel called “Mia Soul”.
 
-## `What is a GameJam?`
+## **What is a GameJam?**
 
 A Game Jam is an event where the goal is to invent a playable game in a given time period. If you're not that familiar with programming or working with game engine you can still join as a group and present the written game concept. Every Game Jam has a theme which the game should somehow be related to.
 
-## `Waterkant Festival 2018: Mia Soul`
+## **Waterkant Festival 2018: Mia Soul**
 
 This is the result of my first Game Jam I participated in June 2018 at the [Waterkant Festival](https://waterkant.sh/) in Kiel. The Game Jam took 48 hours and on the last day of the festival all games were presented. The topic of the Jam was “The Secret Code”. 
 
