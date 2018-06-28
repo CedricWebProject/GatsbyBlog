@@ -24,14 +24,12 @@ This is the result of my first Game Jam I participated in June 2018 at the [Wate
 
 We were five people in total, containing one programmer, one unity developer, two 3D artists and me. I was responsible for the sound design and the production of the game theme. Besides the main menue and credits I invented the first concept for the level design.
 
-_(Bild vom Jam)_
+![Game Jam](/img/gamejam2.png)
 
 At the beginning we gather ideas about what the game should be about. We had a few rounds where everyone presented an idea after a given time. We ended up combining two game mechanics: The narrative and the exploration.
 
 There should be a female main character who is trapped in her own mind, waking up in front of a door sealed with a giant lock. Obviously she wants to get through this door. 
 
-_(InGameScreenshot Locked Door)_
+![In-Game-Capture](/img/ingame.png)
 
 Later during the Jam we found the name “Mia Soul” suiting well to our main character. So the player can explore the level with Mia by running and jumping. During exploration Mia can collect letters by simply walking through them. After all letters have been collected it is possible to decode these letters into a readable sentence by finding a secret code hidden in the level. This should unlock the door and release Mia into freedom.
-
-_(InGameScreenshot EndGame) vielleicht noch Level mehr zeigen?_
