@@ -5,19 +5,14 @@ date: '2018-06-27T23:14:40+02:00'
 description: '»When words fail, music speaks.« - Hans Christian Andersen'
 tags:
   - Music
-  - Guitar
-  - Vocals
+  - Studio
   - Singer&Songwriter
 ---
 ## **Songtitle: Care**
 
 **You can find the official music video **[**here**](www.youtube.com)**.**
 
-![studio](/img/musicproduction.png)
-
-`Songtitle: Care`
-
-* (Youtube-Link)
+![Studio](/img/musicproduction.png)
 
 **Intro | F# | F# | A | G | x2 |**
 
