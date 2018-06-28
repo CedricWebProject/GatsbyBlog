@@ -3,24 +3,31 @@ import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 import styled from 'styled-components'
 
-import travel from '../img/Travel.png'
+import placeHolder from '../img/placeHolder.png'
 
 const Wrapper = styled("div")({
   display: "flex",
-  flexDirection: "row",
+  flexDirection: "row"
 });
 
 const Posts = styled("div")({
   backgroundColor: '#f1f1f1',
   border: '2px solid #0078cf', 
   padding: '1em 2em',
-  marginBottom: '1.5em',
-  position: 'relative',
+  marginBottom: '1.5em'
 });
 
 const PostTitles = styled("div")({
-  fontSize: '20px',
+  fontSize: '25px',
   fontWeight: 'bold',
+  textDecorationLine: 'underline',
+  textAlign: "center",
+});
+
+const Quote = styled("div")({
+  fontSize: '9px',
+  fontWeight: 'bold',
+  textAlign: "center"
 });
 
 export default class IndexPage extends React.Component {
@@ -36,17 +43,20 @@ export default class IndexPage extends React.Component {
               <Link to={post.fields.slug} key={post.id}>
                 <Posts className="content" >
                   <p>
-                    <PostTitles className="has-text-primary" to={post.fields.slug}>
+                    <PostTitles className="has-text-primary">
                      {post.frontmatter.title}
                     </PostTitles>
                   </p>
                   <p>
-                   <div>
-                    <img src={travel} alt="TravelImage"/>
-                   </div>
+                  <Quote className="has-text-primary" >
+                    {post.frontmatter.description}
+                  </Quote>
+                    <br />
+                  <div>
+                    <img src={placeHolder} alt="Herring"/>
+                  </div>
                      <br />
-                     <br />
-                   <div className="button is-small" to={post.fields.slug}>
+                   <div className="button is-small">
                     Start Reading →
                    </div>
                  </p>
@@ -82,6 +92,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            description
             templateKey
             date(formatString: "MMMM DD, YYYY")
           }
