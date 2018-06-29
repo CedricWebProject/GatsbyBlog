@@ -13,7 +13,7 @@ tags:
 **Vehicle:** VW Bus T4 (1996)\
 **Nights:** Two\
 **Distance travelled:** 600 km\
-** Towns Visited:** Flensburg - Sønderborg - Tønder - Eckernförde
+**Towns Visited:** Flensburg - Sønderborg - Tønder - Eckernförde
 
 ![First Night](/img/firstnight.png)
 
