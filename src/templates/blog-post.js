@@ -4,6 +4,11 @@ import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import Content, { HTMLContent } from '../components/Content'
+import styled from 'styled-components'
+
+const Date = styled("div") ({
+  textAlign: "right"
+});
 
 export const BlogPostTemplate = ({
   content,
@@ -12,6 +17,7 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
+  date,
 }) => {
   const PostContent = contentComponent || Content
 
@@ -24,7 +30,13 @@ export const BlogPostTemplate = ({
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
-            <p>{description}</p>
+            <Date>
+              {date}
+            </Date>
+            <p>
+              {description}
+            </p>
+            <br />
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
@@ -51,6 +63,7 @@ BlogPostTemplate.propTypes = {
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.instanceOf(Helmet),
+  date: PropTypes.string
 }
 
 const BlogPost = ({ data }) => {
@@ -64,6 +77,7 @@ const BlogPost = ({ data }) => {
       helmet={<Helmet title={`${post.frontmatter.title} | Blog`} />}
       tags={post.frontmatter.tags}
       title={post.frontmatter.title}
+      date={post.frontmatter.date}
     />
   )
 }
