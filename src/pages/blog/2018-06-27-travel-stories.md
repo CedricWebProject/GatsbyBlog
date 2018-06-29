@@ -8,11 +8,15 @@ tags:
   - VW Bus
   - OnTheRoad
 ---
-## **`Danmark (2018)`**
+
+
+## **Danmark (2018)**
 
 **Vehicle:** VW Bus T4 (1996)\
 **Nights:** Two\
 **Distance travelled:** 600 km\
-**Visited Towns:** Flensburg - Sønderborg - Tønder - Eckernförde
+** Towns Visited:** Flensburg - Sønderborg - Tønder - Eckernförde
+
+![First Night](/img/firstnight.png)
 
 ![Breakfast at North Sea](/img/travel.png)
