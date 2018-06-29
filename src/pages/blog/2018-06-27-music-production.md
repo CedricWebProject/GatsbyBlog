@@ -10,7 +10,7 @@ tags:
 ---
 ## **Songtitle: Care**
 
-**You can find the official music video **[**here**](https://www.youtube.com/?gl=DE&hl=de)**.**
+**You can find the official **[**music video**](https://www.youtube.com/?gl=DE&hl=de)** here.**
 
 ![Studio](/img/musicproduction.png)
 
