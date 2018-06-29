@@ -22,5 +22,3 @@ tags:
 ![Sunset](/img/sunset.png)
 
 ![Breakfast](/img/breakfast_1.png)
-
-![Tønder](/img/tønder.png)
