@@ -8,8 +8,6 @@ tags:
   - VW Bus
   - OnTheRoad
 ---
-
-
 ## **Danmark (2018)**
 
 **Vehicle:** VW Bus T4 (1996)\
@@ -19,4 +17,10 @@ tags:
 
 ![First Night](/img/firstnight.png)
 
-![Breakfast at North Sea](/img/travel.png)
+![Beach Rømø](/img/beach.png)
+
+![Sunset](/img/sunset.png)
+
+![Breakfast](/img/breakfast.png)
+
+![Tønder](/img/tønder.png)
