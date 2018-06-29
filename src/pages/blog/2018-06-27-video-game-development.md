@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Video Game Development
 date: '2018-06-27T23:51:00+02:00'
-description: »Games are a series of interesting decisions.« - Cid Meier
+description: »Games are a series of interesting decisions.« • Cid Meier
 tags:
   - Games
   - Entertainment
