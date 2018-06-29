@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Travel Story
+title: Travel Stories
 date: '2018-06-27T23:28:35+02:00'
 description: '»Wherever you go, go with all your heart.« • Confucius'
 tags:
