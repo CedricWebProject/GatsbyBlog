@@ -10,11 +10,7 @@ tags:
 ---
 ## **Songtitle: Care**
 
-<<<<<<< HEAD
 **You can find the official [music video](https://www.youtube.com/?gl=DE&hl=de) here.**
-=======
-**You can find the official music video here (Link's coming soon).**
->>>>>>> 89c1d060055eb41faa37127c01897fe215bc008e
 
 ![Studio](/img/musicproduction.png)
 
