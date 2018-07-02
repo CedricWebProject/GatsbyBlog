@@ -15,8 +15,6 @@ tags:
 **Distance travelled:** 600 km\
 **Towns Visited:** Flensburg - Sønderborg - Tønder - Eckernförde
 
-
-
 ![First Night](/img/firstnight.png)
 
 ![Beach Rømø](/img/beach.png)
