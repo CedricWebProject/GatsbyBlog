@@ -8,52 +8,86 @@ tags:
   - Studio
   - Singer&Songwriter
 ---
-## **Songtitle: Care**
+## **Songtitle: Cœur**
 
 **You can find the official [music video](https://www.youtube.com/?gl=DE&hl=de) here.**
 
 ![Studio](/img/musicproduction.png)
 
-**Intro | F# | F# | A | G | x2 |**
+**Intro | Am7 | F7 | x2 | G7 | Esus2 | F7 |**
 
-**Verse | F# | F# | A | G | x4 || G | x2 |**
+My closest friend, my hottest brand, my shelter, my cover or just my lover. 
 
-It used to be everything but now we’re falling apart.\
-I’m not that sensible, I’m not good for your heart.\
-And I’m like: Let it go! Let it go! No, we’re not that far.\
-It used to be everything but now we’re falling apart.
 
-**Chorus |  F# | A | H | F# | x2 |**
 
-I don’t care for you,\
-You don’t know but it’s true.\
-I don’t care for you, it’s true.
+**Verse | Am7 | F7 | x9**
 
-**Verse | Am7 | F7 | x4**
+My closest friend where I’m in no need to pretend
 
-It used to be anything but damn this is so hard.\
-You are so sensible, I’m not good for your heart.\
-And I fucked it, I fucked it up. No, we can’t be apart.\
-It used to be anything but damn this is so hard.
+No one else, it’s just me to present.
 
-**Chorus |  F# | A | H | F# | x2 || xX |**
 
-I don’t care for you,\
-You don’t know but it’s true.\
-I don’t care for you, it’s true.
 
-**Verse | Am7 | F7 | x4**
+My hottest brand, anything I would lend
 
-It feels like nothing, baby, just right the start.\
-This is not sensible, I know you are a good heart.\
-And You’re like: Stop it now! Stop it now! No, this is not smart.\
-It feels like nothing, baby, just let it start.
+To you, only to stay with this trend.
 
-**Chorus |  F# | A | H | F# | x2 |**
+ 
 
-I don’t care for you,\
-You don’t know but it’s true.\
-I don’t care for you, it’s true.
+**Bridge |  G7 | G7 | Esus2 | F7 | G7 | G7 | Esus2 | F7 |**
 
-Uh, Uh, it’s true.\
-Uh, Uh, it’s true.
+True joy when I see these eyes,
+
+You can watch them eating the world alive.
+
+Full of depth and great disguise,
+
+They’re still blowing me when I see inside.
+
+
+
+**Verse | Am7 | F7 | x11**
+
+My shelter down the yard, you taught me silence when I was disturbed.
+
+Still you are freaky and out of mind, I think this love I don’t share with another human kind.
+
+
+
+My cover against the rain, a heavy shield protecting me from that pain.
+
+I’m attached to my girlfriend, enjoying just us to present
+
+
+
+**Bridge |  G7 | G7 | Esus2 | G7 | F7 | Am7 (xX) |**
+
+True joy when I see these eyes,
+
+You can watch them eating the world alive.
+
+Full of depth and great disguise,
+
+They’re still blowing me when I see inside. 
+
+
+
+**Refrain | Am7 | F7 | Am7 | F7 | G7 | F7 | G7 | F7 | **
+
+Tu me demandes pourquoi cela s'appelle coeur, 
+
+Parce que je te soutiens dans le grand malheur.
+
+Ma raison pour laquelle je ne pense plus clairement,
+
+Qu’est que tu fais avec moi, je „te quiero“ maintenant encore!
+
+
+
+**Outro | Am7 | F7 | x4 | G7 | Esus2 | F7 | Am7 | Amaj7 |**
+
+Mon ami le plus proche, ma marque plus chaude, mon refuge , ma protection ou juste mon amour.
+
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
