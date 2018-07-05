@@ -10,7 +10,7 @@ tags:
 ---
 ## **Songtitle: Cœur**
 
-**You can find the official **[music video](https://www.youtube.com/watch?v=1ga659SkeEc&frags=pl%2Cwn)** here.**
+**You can find the official [music video](https://www.youtube.com/watch?v=1ga659SkeEc&frags=pl%2Cwn) here.**
 
 ![Studio](/img/musicproduction.png)
 
