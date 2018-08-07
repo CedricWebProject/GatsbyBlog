@@ -30,19 +30,6 @@ const Quote = styled("div")({
   textAlign: "center"
 });
 
-const Posts = styled("div")({
-  backgroundColor: '#f1f1f1',
-  border: '2px solid #0078cf', 
-  padding: '1em 2em',
-  marginBottom: '1.5em',
-  position: 'relative',
-});
-
-const PostTitles = styled("div")({
-  fontSize: '20px',
-  fontWeight: 'bold',
-});
-
 export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props
@@ -66,7 +53,7 @@ export default class IndexPage extends React.Component {
                   </Quote>
                     <br />
                   <div>
-                    <img src={placeHolder} alt="Herring"/>
+                    <img src={post.frontmatter.image} alt="Herring" />
                   </div>
                      <br />
                    <div className="button is-small">
@@ -108,6 +95,7 @@ export const pageQuery = graphql`
             description
             templateKey
             date(formatString: "MMMM DD, YYYY")
+            image
           }
         }
       }
