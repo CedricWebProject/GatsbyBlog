@@ -53,7 +53,7 @@ export default class IndexPage extends React.Component {
                   </Quote>
                     <br />
                   <div>
-                    <img src={post.frontmatter.image} alt="Herring" />
+                    <img src={placeHolder} alt="Herring" />
                   </div>
                      <br />
                    <div className="button is-small">
@@ -95,7 +95,6 @@ export const pageQuery = graphql`
             description
             templateKey
             date(formatString: "MMMM DD, YYYY")
-            image
           }
         }
       }
